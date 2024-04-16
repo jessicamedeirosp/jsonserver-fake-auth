@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "email": "jess@teste.com",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "email": "jess@teste.com",
+      "password": "123"
+    },
+    {
+      "email": "jess@teste.com",
+      "password": "123",
+      "id": "UCGAZ9d"
+    },
+    {
+      "email": "bia@teste.com",
+      "password": "123",
+      "id": "ADxgNnD"
+    },
+    {
+      "email": "bia2@teste.com",
+      "password": "123",
+      "id": "-TakZs2"
+    },
+    {
+      "email": "bia3@teste.com",
+      "password": "123",
+      "id": "tj0L3f0"
+    },
+    {
+      "email": "bia4@teste.com",
+      "password": "123",
+      "id": "anGT50c"
+    },
+    {
+      "email": "bia5@teste.com",
+      "password": "123",
+      "id": "UzyFo4i"
+    },
+    {
+      "email": "bia6@teste.com",
+      "password": "123",
+      "id": "gHkapUS"
+    },
+    {
+      "email": "bia7@teste.com",
+      "password": "123",
+      "id": "6tmQyRS"
+    },
+    {
+      "email": "bia7@teste.com",
+      "password": "123",
+      "id": "IvfmFMg"
+    },
+    {
+      "email": "bia8@teste.com",
+      "password": "123",
+      "id": "cTOmac3"
+    },
+    {
+      "id": "6b384348-7ad6-4521-8d5b-947ed84afc64",
+      "password": "123",
+      "email": "bia9@teste.com"
+    },
+    {
+      "id": "c39103ee-1745-4c9f-9022-84c130344fd9",
+      "password": "123",
+      "email": "bia10@teste.com"
+    },
+    {
+      "id": "95f6ffb9-495d-4f68-90ea-8539004c51b9",
+      "password": "123",
+      "email": "bia11@teste.com"
+    },
+    {
+      "id": "fe139eaa-e1a2-443d-9d9e-6c13c630b5c7",
+      "password": "123",
+      "email": "bia12@teste.com"
+    },
+    {
+      "id": "a267da6a-5627-4d7f-b1b9-cbbfbe211cf2",
+      "password": "123",
+      "email": "bia13@teste.com"
+    },
+    {
+      "id": "f1b705cd-8423-488d-8dbc-7ee05b9c04b3",
+      "password": "123",
+      "email": "bia14@teste.com"
+    },
+    {
+      "id": "f5df3c80-ae72-443f-9c34-8ce12254cae8",
+      "password": "123",
+      "email": "bia15@teste.com"
+    },
+    {
+      "id": "d28c824d-eae2-4c58-ab92-e8d1cbc6482d",
+      "password": "123",
+      "email": "bia16@teste.com"
+    },
+    {
+      "id": "9ae81c50-7057-434d-8983-912c4233ab2b",
+      "password": "123",
+      "email": "bia17@teste.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "post",
+      "text": "teste"
+    },
+    {
+      "title": "post 2",
+      "text": "teste",
+      "id": "D1vsqJW"
+    },
+    {
+      "title": "post 3",
+      "text": "teste",
+      "id": "MUgz-dv"
+    }
+  ]
+}
